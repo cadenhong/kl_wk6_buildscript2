@@ -1,0 +1,225 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+caden       1850 10.5 14.2 4710056 435028 ?      Ssl  Aug10 114:44 /usr/bin/gnome-shell
+caden      44735 17.3 12.4 3447276 378848 ?      Sl   08:02  23:56 /snap/firefox/1670/usr/lib/firefox/firefox
+caden      46260  4.6  7.6 2635900 233024 ?      Sl   08:03   6:23 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 31979 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      41734  0.3  5.4 40494168 166568 ?     Sl   07:22   0:34 /snap/code/104/usr/share/code/code --type=renderer --enable-crashpad --crashpad-handler-pid=41678 --enable-crash-reporter=0a521753-ce4c-45ca-ad69-5a556a120eb5,no_channel --user-data-dir=/home/caden/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/snap/code/104/usr/share/code/resources/app --no-sandbox --no-zygote --enable-blink-features=HighlightAPI --no-sandbox --disable-gpu-compositing --lang=en-US --num-raster-threads=1 --renderer-client-id=5 --launch-time-ticks=54379876249 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10507301293156825992,3515192535767456102,131072 --disable-features=SpareRendererForSitePerProcess --vscode-window-config=vscode:ee41b150-7af2-4fb2-bfb5-49bed38fe487 --enable-crashpad
+caden      46113  3.1  5.1 2532148 158800 ?      Sl   08:03   4:23 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 31979 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden       2192  0.0  4.8 1586536 147000 ?      Sl   Aug10   0:30 /snap/snap-store/575/usr/bin/snap-store --gapplication-service
+caden      44894  0.1  4.2 2444736 129832 ?      Sl   08:02   0:11 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 26629 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      41895  0.1  3.7 30000096 113188 ?     Sl   07:22   0:10 /snap/code/104/usr/share/code/code --type=renderer --enable-crashpad --crashpad-handler-pid=41678 --enable-crash-reporter=0a521753-ce4c-45ca-ad69-5a556a120eb5,no_channel --user-data-dir=/home/caden/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/snap/code/104/usr/share/code/resources/app --no-sandbox --no-zygote --node-integration-in-worker --no-sandbox --disable-gpu-compositing --lang=en-US --num-raster-threads=1 --renderer-client-id=6 --launch-time-ticks=54392024476 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10507301293156825992,3515192535767456102,131072 --disable-features=SpareRendererForSitePerProcess --vscode-window-config=vscode:ca05dea7-4b50-4cce-ac2e-1edcc717b8a9 --vscode-window-kind=shared-process --enable-crashpad
+caden      41659  0.0  3.4 21740056 104708 ?     SLsl 07:22   0:08 /snap/code/104/usr/share/code/code --no-sandbox --force-user-env --unity-launch --enable-crashpad
+caden      41924  0.0  3.0 21550848 92556 ?      Sl   07:22   0:07 /snap/code/104/usr/share/code/code --ms-enable-electron-run-as-node --inspect-port=0 /snap/code/104/usr/share/code/resources/app/out/bootstrap-fork --type=extensionHost --skipWorkspaceStorageLock
+caden      45948  0.0  2.8 2427300 87000 ?       Sl   08:02   0:00 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 31164 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      46315  0.0  2.7 2407428 83732 ?       Sl   08:03   0:00 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 32036 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      41948  0.0  2.2 21542624 70160 ?      Sl   07:22   0:02 /snap/code/104/usr/share/code/code --ms-enable-electron-run-as-node /snap/code/104/usr/share/code/resources/app/out/bootstrap-fork --type=ptyHost --logsPath /home/caden/.config/Code/logs/20220811T072209
+caden      42003  0.0  2.2 21542520 69580 ?      Sl   07:22   0:01 /snap/code/104/usr/share/code/code --ms-enable-electron-run-as-node /snap/code/104/usr/share/code/resources/app/out/bootstrap-fork --type=fileWatcher
+caden      46389  0.0  2.0 2400344 61220 ?       Sl   08:03   0:00 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 32036 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      46345  0.0  1.9 2400348 59632 ?       Sl   08:03   0:00 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 32036 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      47271  0.0  1.9 2400348 59528 ?       Sl   10:03   0:00 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 32142 -prefMapSize 231088 -jsInitLen 267752 -parentBuildID 20220808190152 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true tab
+caden      41706  0.0  1.7 17199016 54952 ?      Sl   07:22   0:01 /snap/code/104/usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-sandbox --enable-crashpad --crashpad-handler-pid=41678 --enable-crash-reporter=0a521753-ce4c-45ca-ad69-5a556a120eb5,no_channel --user-data-dir=/home/caden/.config/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,10507301293156825992,3515192535767456102,131072 --disable-features=SpareRendererForSitePerProcess --enable-crashpad
+caden       2235  0.1  1.5 229072 47508 ?        S    Aug10   1:53 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.7E5QQ1 -listen 4 -listen 5 -displayfd 6 -initfd 7
+caden      41707  0.0  1.5 17256136 47052 ?      Sl   07:22   0:08 /snap/code/104/usr/share/code/code --type=gpu-process --no-sandbox --enable-crashpad --crashpad-handler-pid=41678 --enable-crash-reporter=0a521753-ce4c-45ca-ad69-5a556a120eb5,no_channel --user-data-dir=/home/caden/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=0,i,10507301293156825992,3515192535767456102,131072 --disable-features=SpareRendererForSitePerProcess
+caden      12900  0.4  1.2 565308 39440 ?        Rsl  Aug10   3:43 /usr/libexec/gnome-terminal-server
+caden      44867  0.0  1.2 218140 38000 ?        Sl   08:02   0:00 /snap/firefox/1670/usr/lib/firefox/firefox -contentproc -parentBuildID 20220808190152 -prefsLen 26488 -prefMapSize 231088 -appDir /snap/firefox/1670/usr/lib/firefox/browser 44735 true socket
+caden      20859  0.0  1.1 2797976 35944 ?       Sl   05:04   0:06 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1460:940:1:27:0:0:0:0
+caden      41661  0.0  1.1 17145492 35912 ?      S    07:22   0:00 /snap/code/104/usr/share/code/code --type=zygote --no-zygote-sandbox --no-sandbox --enable-crashpad --enable-crashpad
+caden      41662  0.0  1.1 17145480 34408 ?      S    07:22   0:00 /snap/code/104/usr/share/code/code --type=zygote --no-sandbox --enable-crashpad --enable-crashpad
+caden      47489  2.2  1.0 399256 31108 ?        SNsl 10:20   0:00 /usr/libexec/tracker-extract-3
+root         653  0.0  0.7 1022224 23648 ?       Ssl  Aug10   0:48 /usr/lib/snapd/snapd
+root        1499  0.1  0.7 446524 23288 ?        Ssl  Aug10   1:26 /usr/libexec/packagekitd
+caden       1772  0.0  0.6 709296 21324 ?        SNsl Aug10   0:23 /usr/libexec/tracker-miner-fs-3
+caden       2127  0.0  0.6 736580 19040 ?        Sl   Aug10   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+root       23123  0.0  0.5  17328 17192 ?        S<Ls 06:44   0:07 /usr/bin/atop -R -w /var/log/atop/atop_20220811 600
+caden       2342  0.0  0.5 581048 16380 ?        Ssl  Aug10   0:01 /usr/libexec/gsd-xsettings
+root         241  0.0  0.5  48288 16080 ?        S<s  Aug10   0:09 /lib/systemd/systemd-journald
+caden       2117  0.0  0.4 347972 13948 ?        Sl   Aug10   0:13 /usr/libexec/ibus-extension-gtk3
+caden       2050  0.0  0.4 525072 13932 ?        Ssl  Aug10   0:03 /usr/libexec/gsd-power
+caden       2946  0.0  0.4 420312 13896 ?        Sl   Aug10   0:04 update-notifier
+caden       1699  0.0  0.4 1422596 13652 ?       Ssl  Aug10   0:03 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+caden       2041  0.0  0.4 599240 13620 ?        Ssl  Aug10   0:02 /usr/libexec/gsd-color
+root       11784  0.0  0.4 347544 13616 ?        Ss   Aug10   0:01 /usr/bin/python3 /usr/bin/glances -s -B 127.0.0.1
+caden       2048  0.0  0.4 643728 12956 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-media-keys
+caden       1863  0.0  0.4 561228 12716 ?        SLl  Aug10   0:00 /usr/libexec/goa-daemon
+caden       2413  0.0  0.4 417764 12640 ?        Ssl  Aug10   0:00 /usr/libexec/xdg-desktop-portal-gtk
+caden       2401  0.0  0.4 2599440 12576 ?       Sl   Aug10   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+root         616  0.0  0.4 334660 12548 ?        Ssl  Aug10   0:08 /usr/sbin/NetworkManager --no-daemon
+caden       1962  0.0  0.3 597324 12204 ?        Ssl  Aug10   0:01 /usr/libexec/xdg-desktop-portal-gnome
+caden       2074  0.0  0.3 342004 12156 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-wacom
+caden       1984  0.0  0.3 1118948 11640 ?       Ssl  Aug10   0:00 /usr/libexec/evolution-calendar-factory
+caden       2046  0.0  0.3 341368 11048 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-keyboard
+caden       1975  0.0  0.3 1072132 10820 ?       Ssl  Aug10   0:00 /usr/libexec/evolution-source-registry
+caden       1996  0.0  0.3 672188 10768 ?        Ssl  Aug10   0:00 /usr/libexec/evolution-addressbook-factory
+caden       2025  0.0  0.3 2525672 10280 ?       Sl   Aug10   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+root           1  0.0  0.3 168212 10160 ?        Ss   Aug10   0:15 /sbin/init splash
+caden       2200  0.0  0.3 342344 10032 ?        Sl   Aug10   0:00 /usr/libexec/gsd-printer
+root         813  0.0  0.3 118140  9780 ?        Ssl  Aug10   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+caden       1958  0.0  0.3 885884  9280 ?        Ssl  Aug10   0:04 /usr/libexec/xdg-desktop-portal
+root         641  0.0  0.3 242936  9236 ?        Ssl  Aug10   0:04 /usr/libexec/polkitd --no-debug
+caden       1823  0.0  0.2 658496  8876 ?        Ssl  Aug10   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+root       23128  0.0  0.2 172612  8596 ?        Ssl  06:44   0:00 /usr/sbin/cups-browsed
+root       23120  0.0  0.2  72984  8592 ?        Ss   06:44   0:00 /usr/sbin/cupsd -l
+caden       2044  0.0  0.2 375416  8544 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-datetime
+root        1680  0.0  0.2 318164  8508 ?        Sl   Aug10   0:00 gdm-session-worker [pam/gdm-password]
+root         640  0.0  0.2  41048  8480 ?        Ss   Aug10   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+colord      1632  0.0  0.2 245272  8128 ?        Ssl  Aug10   0:00 /usr/libexec/colord
+root         671  0.0  0.2 393288  8108 ?        Ssl  Aug10   0:01 /usr/libexec/udisks2/udisksd
+caden       2052  0.0  0.2 249840  7960 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-print-notifications
+caden       1890  0.0  0.2 338388  7608 ?        Sl   Aug10   0:00 /usr/libexec/goa-identity-service
+caden       1736  0.0  0.2 223032  7500 tty2     Sl+  Aug10   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+caden       1712  0.0  0.2  12204  7392 ?        Ss   Aug10   0:08 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+caden       1690  0.0  0.2  18060  7300 ?        Ss   Aug10   0:03 /lib/systemd/systemd --user
+caden       2059  0.0  0.2 465896  7276 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-sharing
+caden       2039  0.1  0.2 314984  7272 ?        Sl   Aug10   1:42 /usr/bin/ibus-daemon --panel disable
+systemd+     496  0.0  0.2  25656  7244 ?        Ss   Aug10   0:07 /lib/systemd/systemd-resolved
+root        1198  0.0  0.2 241208  7200 ?        Ssl  Aug10   0:00 /usr/sbin/gdm3
+caden       1839  0.0  0.2 389744  7080 ?        Ssl  Aug10   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+caden       1969  0.0  0.2 583024  7016 ?        Sl   Aug10   0:00 /usr/libexec/gnome-shell-calendar-server
+caden       1701  0.0  0.2 308968  7004 ?        Ssl  Aug10   0:01 /snap/snapd-desktop-integration/14/bin/snapd-desktop-integration
+caden       2070  0.0  0.2 319292  6968 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-sound
+caden       1714  0.0  0.2 240732  6500 ?        Ssl  Aug10   0:00 /usr/libexec/gvfsd
+root         744  0.0  0.2 316944  6444 ?        Ssl  Aug10   0:00 /usr/sbin/ModemManager
+caden       2011  0.0  0.2 314856  6356 ?        Sl   Aug10   0:00 /usr/libexec/gvfsd-trash --spawner :1.2 /org/gtk/gvfs/exec_spaw/0
+root        1367  0.0  0.2 242328  6328 ?        Ssl  Aug10   0:10 /usr/libexec/upowerd
+caden       2060  0.0  0.2 385984  6220 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-smartcard
+root         590  0.0  0.1 239968  6088 ?        Ssl  Aug10   0:03 /usr/libexec/accounts-daemon
+caden       2121  0.0  0.1 237252  5928 ?        Sl   Aug10   0:00 /usr/libexec/ibus-portal
+caden       1899  0.0  0.1 315196  5912 ?        Ssl  Aug10   0:07 /usr/libexec/gvfs-afc-volume-monitor
+root         655  0.0  0.1 236604  5908 ?        Ssl  Aug10   0:01 /usr/libexec/switcheroo-control
+caden       1848  0.0  0.1 309576  5892 ?        Sl   Aug10   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+caden       2027  0.0  0.1 162676  5872 ?        Sl   Aug10   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+caden       1857  0.0  0.1 236752  5848 ?        Ssl  Aug10   0:00 /usr/libexec/gvfs-goa-volume-monitor
+caden       1708  0.0  0.1 240908  5836 ?        Sl   Aug10   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+caden       2334  0.0  0.1 163048  5824 ?        Ssl  Aug10   0:00 /usr/libexec/gvfsd-metadata
+root         646  0.0  0.1 240052  5804 ?        Ssl  Aug10   0:00 /usr/libexec/power-profiles-daemon
+message+     611  0.0  0.1  11128  5760 ?        Ss   Aug10   0:22 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+caden       2323  0.0  0.1 163600  5748 ?        Sl   Aug10   0:33 /usr/libexec/ibus-engine-simple
+caden       2045  0.0  0.1 312012  5704 ?        Ssl  Aug10   0:04 /usr/libexec/gsd-housekeeping
+caden       1909  0.0  0.1 236448  5612 ?        Ssl  Aug10   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+caden       1750  0.0  0.1 536896  5608 ?        Ssl  Aug10   0:00 /usr/libexec/xdg-document-portal
+caden       1905  0.0  0.1 237404  5524 ?        Ssl  Aug10   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+caden       2116  0.0  0.1 237300  5500 ?        Sl   Aug10   0:00 /usr/libexec/ibus-dconf
+caden       2058  0.0  0.1 236276  5360 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-screensaver-proxy
+caden       2053  0.0  0.1 457844  5344 ?        Ssl  Aug10   0:00 /usr/libexec/gsd-rfkill
+caden       1723  0.0  0.1 380884  5196 ?        Sl   Aug10   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+root         307  0.0  0.1  26460  5168 ?        Ss   Aug10   0:01 /lib/systemd/systemd-udevd
+caden       1985  0.0  0.1 156932  5048 ?        Ssl  Aug10   0:00 /usr/libexec/dconf-service
+caden       3624  0.0  0.1 719816  4968 ?        Sl   Aug10   0:03 /usr/bin/snap userd
+caden      15220  0.0  0.1  11400  4928 pts/4    Ss+  Aug10   0:00 bash
+caden       1726  0.0  0.1 162380  4908 tty2     Ssl+ Aug10   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+root         666  0.0  0.1  23676  4860 ?        Ss   Aug10   0:01 /lib/systemd/systemd-logind
+caden       2119  0.0  0.1 232260  4860 ?        Sl   Aug10   0:00 /usr/libexec/gsd-disk-utility-notify
+caden      13077  0.0  0.1  11396  4796 pts/2    Ss+  Aug10   0:00 bash
+caden       1773  0.0  0.1 236144  4712 ?        Ssl  Aug10   0:00 /usr/libexec/xdg-permission-store
+caden      15003  0.0  0.1  11400  4436 pts/3    Ss   Aug10   0:00 bash
+caden       1813  0.0  0.1  91900  4284 ?        Ssl  Aug10   0:00 /usr/libexec/gnome-session-ctl --monitor
+caden       1697  0.0  0.1  39564  4072 ?        Ssl  Aug10   0:00 /usr/bin/pipewire
+caden      47496  0.0  0.1  13004  3776 pts/3    R+   10:20   0:00 ps aux --sort -rss
+caden      12918  0.0  0.1  11396  3724 pts/1    Ss+  Aug10   0:00 bash
+syslog       650  0.0  0.1 222400  3680 ?        Ssl  Aug10   0:00 /usr/sbin/rsyslogd -n -iNONE
+caden       1865  0.0  0.1   8560  3536 ?        S    Aug10   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+caden      47495  0.0  0.1   9968  3512 pts/3    S+   10:20   0:00 /bin/bash /home/caden/bin/buildscript2.sh
+caden       1698  0.0  0.1  23452  3476 ?        Ssl  Aug10   0:00 /usr/bin/pipewire-media-session
+systemd+     493  0.2  0.1  14824  3428 ?        Ss   Aug10   2:35 /lib/systemd/systemd-oomd
+root         689  0.0  0.0  16492  2940 ?        Ss   Aug10   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root         609  0.0  0.0   9492  2692 ?        Ss   Aug10   0:00 /usr/sbin/cron -f -P
+avahi        605  0.0  0.0   7628  2560 ?        Ss   Aug10   0:00 avahi-daemon: running [caden-VirtualBox.local]
+root        1189  0.0  0.0 362220  2536 ?        Sl   Aug10   0:38 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+caden       2149  0.0  0.0 152948  1952 ?        Sl   Aug10   0:00 /usr/bin/VBoxClient --clipboard
+root       13871  0.0  0.0   2784  1620 ?        S<   Aug10   0:04 /usr/sbin/atopacctd
+root         638  0.0  0.0  82696  1420 ?        Ssl  Aug10   0:05 /usr/sbin/irqbalance --foreground
+caden       2218  0.0  0.0 153048  1384 ?        Sl   Aug10   0:00 /usr/bin/VBoxClient --seamless
+caden       2241  0.3  0.0 153568  1328 ?        Sl   Aug10   4:09 /usr/bin/VBoxClient --draganddrop
+rtkit       1238  0.0  0.0 154000  1216 ?        SNsl Aug10   0:02 /usr/libexec/rtkit-daemon
+caden      41678  0.0  0.0 16808472 1208 ?       Sl   07:22   0:00 /snap/code/104/usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/caden/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=618c449f-ce89-4013-b0f1-ed16b851eafe&iid=618c449f-ce89-4013-b0f1-ed16b851eafe&sid=618c449f-ce89-4013-b0f1-ed16b851eafe --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.70.1 --annotation=prod=Electron --annotation=ver=18.3.5 --initial-client-fd=43 --shared-client-connection
+root         593  0.0  0.0   2812  1112 ?        Ss   Aug10   0:05 /usr/sbin/acpid
+root        1779  0.0  0.0   2792   988 ?        Ss   Aug10   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+root        2251  0.0  0.0  86248   952 ?        S    Aug10   0:00 
+caden       1691  0.0  0.0 169972   916 ?        S    Aug10   0:00 (sd-pam)
+caden       2036  0.0  0.0   2888   784 ?        Ss   Aug10   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+kernoops     974  0.0  0.0  13080   308 ?        Ss   Aug10   0:00 /usr/sbin/kerneloops
+avahi        707  0.0  0.0   7440   220 ?        S    Aug10   0:00 avahi-daemon: chroot helper
+kernoops     949  0.0  0.0  13080   188 ?        Ss   Aug10   0:00 /usr/sbin/kerneloops --test
+caden       2217  0.0  0.0  20812   188 ?        S    Aug10   0:00 /usr/bin/VBoxClient --seamless
+caden       2240  0.0  0.0  20812   188 ?        S    Aug10   0:00 /usr/bin/VBoxClient --draganddrop
+caden       2250  0.0  0.0  20812   124 ?        S    Aug10   0:00 /usr/bin/VBoxClient --vmsvga
+caden       2148  0.0  0.0  20812    64 ?        S    Aug10   0:00 /usr/bin/VBoxClient --clipboard
+root           2  0.0  0.0      0     0 ?        S    Aug10   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Aug10   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Aug10   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   Aug10   0:00 [netns]
+root           7  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kworker/0:0H-events_highpri]
+root          10  0.0  0.0      0     0 ?        I<   Aug10   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        S    Aug10   0:00 [rcu_tasks_rude_]
+root          12  0.0  0.0      0     0 ?        S    Aug10   0:00 [rcu_tasks_trace]
+root          13  0.0  0.0      0     0 ?        S    Aug10   0:04 [ksoftirqd/0]
+root          14  0.0  0.0      0     0 ?        I    Aug10   0:47 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    Aug10   0:00 [migration/0]
+root          16  0.0  0.0      0     0 ?        S    Aug10   0:00 [idle_inject/0]
+root          17  0.0  0.0      0     0 ?        S    Aug10   0:00 [cpuhp/0]
+root          18  0.0  0.0      0     0 ?        S    Aug10   0:00 [cpuhp/1]
+root          19  0.0  0.0      0     0 ?        S    Aug10   0:00 [idle_inject/1]
+root          20  0.0  0.0      0     0 ?        S    Aug10   0:01 [migration/1]
+root          21  0.0  0.0      0     0 ?        S    Aug10   0:04 [ksoftirqd/1]
+root          23  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kworker/1:0H-events_highpri]
+root          24  0.0  0.0      0     0 ?        S    Aug10   0:00 [kdevtmpfs]
+root          25  0.0  0.0      0     0 ?        I<   Aug10   0:00 [inet_frag_wq]
+root          26  0.0  0.0      0     0 ?        S    Aug10   0:00 [kauditd]
+root          27  0.0  0.0      0     0 ?        S    Aug10   0:00 [khungtaskd]
+root          28  0.0  0.0      0     0 ?        S    Aug10   0:00 [oom_reaper]
+root          29  0.0  0.0      0     0 ?        I<   Aug10   0:00 [writeback]
+root          30  0.0  0.0      0     0 ?        S    Aug10   0:14 [kcompactd0]
+root          31  0.0  0.0      0     0 ?        SN   Aug10   0:00 [ksmd]
+root          32  0.0  0.0      0     0 ?        SN   Aug10   0:02 [khugepaged]
+root          79  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kintegrityd]
+root          80  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kblockd]
+root          81  0.0  0.0      0     0 ?        I<   Aug10   0:00 [blkcg_punt_bio]
+root          82  0.0  0.0      0     0 ?        I<   Aug10   0:00 [tpm_dev_wq]
+root          83  0.0  0.0      0     0 ?        I<   Aug10   0:00 [ata_sff]
+root          84  0.0  0.0      0     0 ?        I<   Aug10   0:00 [md]
+root          85  0.0  0.0      0     0 ?        I<   Aug10   0:00 [edac-poller]
+root          86  0.0  0.0      0     0 ?        I<   Aug10   0:00 [devfreq_wq]
+root          87  0.0  0.0      0     0 ?        S    Aug10   0:00 [watchdogd]
+root          89  0.0  0.0      0     0 ?        I<   Aug10   0:08 [kworker/0:1H-kblockd]
+root          91  0.0  0.0      0     0 ?        S    Aug10   0:17 [kswapd0]
+root          92  0.0  0.0      0     0 ?        S    Aug10   0:00 [ecryptfs-kthrea]
+root          94  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kthrotld]
+root          95  0.0  0.0      0     0 ?        I<   Aug10   0:00 [acpi_thermal_pm]
+root          97  0.0  0.0      0     0 ?        S    Aug10   0:00 [scsi_eh_0]
+root          98  0.0  0.0      0     0 ?        I<   Aug10   0:00 [scsi_tmf_0]
+root          99  0.0  0.0      0     0 ?        S    Aug10   0:00 [scsi_eh_1]
+root         100  0.0  0.0      0     0 ?        I<   Aug10   0:00 [scsi_tmf_1]
+root         102  0.0  0.0      0     0 ?        I<   Aug10   0:00 [vfio-irqfd-clea]
+root         103  0.0  0.0      0     0 ?        I<   Aug10   0:00 [mld]
+root         104  0.0  0.0      0     0 ?        I<   Aug10   0:00 [ipv6_addrconf]
+root         116  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kstrp]
+root         119  0.0  0.0      0     0 ?        I<   Aug10   0:00 [zswap-shrink]
+root         120  0.0  0.0      0     0 ?        I<   Aug10   0:00 [kworker/u5:0]
+root         125  0.0  0.0      0     0 ?        I<   Aug10   0:00 [charger_manager]
+root         149  0.0  0.0      0     0 ?        I<   Aug10   0:12 [kworker/1:1H-kblockd]
+root         173  0.0  0.0      0     0 ?        S    Aug10   0:00 [scsi_eh_2]
+root         176  0.0  0.0      0     0 ?        I<   Aug10   0:00 [scsi_tmf_2]
+root         200  0.0  0.0      0     0 ?        S    Aug10   0:05 [jbd2/sda3-8]
+root         201  0.0  0.0      0     0 ?        I<   Aug10   0:00 [ext4-rsv-conver]
+root         265  0.0  0.0      0     0 ?        I<   Aug10   0:00 [ipmi-msghandler]
+root         276  0.0  0.0      0     0 ?        I<   Aug10   0:00 [ttm_swap]
+root         277  0.0  0.0      0     0 ?        S    Aug10   0:41 [irq/18-vmwgfx]
+root         278  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc0]
+root         279  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc1]
+root         280  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc2]
+root         281  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc3]
+root         282  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc4]
+root         283  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc5]
+root         284  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc6]
+root         285  0.0  0.0      0     0 ?        S    Aug10   0:00 [card0-crtc7]
+root         371  0.0  0.0      0     0 ?        I<   Aug10   0:00 [iprt-VBoxWQueue]
+root         415  0.0  0.0      0     0 ?        I<   Aug10   0:00 [cryptd]
+root       46656  0.2  0.0      0     0 ?        I    09:00   0:12 [kworker/0:2-events]
+root       47125  0.1  0.0      0     0 ?        I    09:43   0:03 [kworker/1:0-cgroup_destroy]
+root       47255  0.4  0.0      0     0 ?        I    10:02   0:04 [kworker/u4:1-events_unbound]
+root       47287  0.0  0.0      0     0 ?        I    10:04   0:00 [kworker/1:1-events]
+root       47288  0.0  0.0      0     0 ?        I    10:04   0:00 [kworker/0:1-events]
+root       47308  0.4  0.0      0     0 ?        I    10:10   0:03 [kworker/u4:0-ext4-rsv-conversion]
+root       47316  0.2  0.0      0     0 ?        I    10:15   0:00 [kworker/u4:2-events_freezable_power_]
+root       47348  0.0  0.0      0     0 ?        I    10:16   0:00 [kworker/u4:3-flush-8:0]
+root       47349  0.0  0.0      0     0 ?        I    10:16   0:00 [kworker/u4:4]
+root       47358  0.1  0.0      0     0 ?        I    10:16   0:00 [kworker/1:2-events]
